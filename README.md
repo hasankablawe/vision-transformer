@@ -1,7 +1,8 @@
 # Vision-Transformer-ViT
 
 🚀 A simple replication of the **Vision Transformer (ViT)** paper:  
-[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+<img width="693" height="364" alt="Screenshot 2025-08-18 223710" src="https://github.com/user-attachments/assets/ef7883c4-d3b8-462b-848e-0b31a74a2990" />
+
 
 ---
 
