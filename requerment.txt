@@ -1,0 +1,8 @@
+torch version == 2.8.0 + cu126
+torchvision version == 0.23.0 + cu126
+torchinfo
+matplotlib
+numpy
+tqdm
+seaborn
+scikit-learn
